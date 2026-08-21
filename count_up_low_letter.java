@@ -15,5 +15,6 @@ public class count_up_low_letter {
             }
         }
         System.out.println("upper :"+ upper +" Lower"+lower);
+        sc.close();
     }
 }
